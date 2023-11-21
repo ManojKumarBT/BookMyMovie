@@ -20,6 +20,7 @@ public class Movie {
     private String movieImage;
     private int likes;
     private String language;
+    //Just Checking
  
     public Movie(String movieName, String theatreName, Integer totalSeats, Integer noOfTicketsAvailable, String ticketsStatus) {
         this.movieName = movieName;
